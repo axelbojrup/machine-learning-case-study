@@ -10,7 +10,7 @@ Clone the following repository and submit above credentials when prompted:
 
 `git clone https://git-codecommit.eu-west-1.amazonaws.com/v1/repos/machine-learning-case-study`
 
-Jump inside the project and start the application with(intall *pipenv* with `pip3 install pipenv`)
+Jump inside the project and start the application with(install *pipenv* with `pip3 install pipenv`)
 
 `pipenv run flask run`
 

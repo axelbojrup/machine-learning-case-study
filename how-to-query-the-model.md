@@ -12,7 +12,7 @@ Clone the following repository and submit above credentials when prompted:
 
 Jump inside the project and start the application with
 
-`flask run`
+`pipenv run flask run`
 
 query the application with
 

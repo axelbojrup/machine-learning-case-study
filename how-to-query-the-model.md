@@ -8,7 +8,7 @@ Provide the following as prompted.
 
 `AWS Access Key ID: AKIAZRKHU2TKXW4DQ7WL`
 
-`AWS Access Key ID: 7AeWbMpR4GA375hKl5/iZigB13ZeubpP86Wr/fkF`
+`AWS Secret Key ID: 7AeWbMpR4GA375hKl5/iZigB13ZeubpP86Wr/fkF`
 
 `Default region name: eu-west-1`
 

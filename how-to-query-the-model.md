@@ -1,16 +1,10 @@
 # How to query the model 
 
-The following credentials and commands will give you access to a git repository hosted on aws codecommit. Start by executing:
+The following credentials and commands will give you access to a git repository hosted on aws codecommit. 
 
-`aws configure`
+`username: ml-case-study-reader-at-655669646549`
 
-Provide the following as prompted.
-
-`AWS Access Key ID: AKIAZRKHU2TKXW4DQ7WL`
-
-`AWS Secret Key ID: 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`
-
-`Default region name: eu-west-1`
+`password: ca9z3VTq0Em0xVBiD/TQmTI2GV26NSeUlqWqjMuLKLs=`
 
 Now you should be able to clone the repository:
 

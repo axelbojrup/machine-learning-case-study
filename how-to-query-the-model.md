@@ -18,4 +18,4 @@ query the application with
 
 `curl -H "Content-Type: application/json" -X POST -d @test_request.json http://127.0.0.1:5000/default`
 
-where the *test_request.json* can be found at the root of this project.
+where the *test_request.json* can be found at the root of the project and be modified with any *uuid* in *database.csv*.
